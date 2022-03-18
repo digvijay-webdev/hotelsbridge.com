@@ -1,0 +1,2 @@
+# hotelsbridge.com
+Hotel's Bridge is a hospitality software created and owned by 'Digvijaysinh Padhiyar'. That allows the hotel guests to access a digital portal which can be used to communicate with the hotel departments such as housekeeping, room service and other facilities that the respective entity offers. This software is an intellectual property of the author and cannot be modified or distributed or used without the permission of the author.
